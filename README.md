@@ -5,3 +5,18 @@ Se asume el papel de científico de datos en una empresa competidora ficticia (S
 
 Certificación IBM Data Science
 
+## Parte 1. 
+Obtención de datos 
+
+## Parte 2. 
+Preparación de datos 
+
+## Parte 3. 
+Analisis exploratorio de datos con SQL
+
+## Parte 4. 
+Visualización exploratoria de datos
+
+## Parte 5. 
+Analsis predictivo
+
